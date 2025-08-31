@@ -1,0 +1,63 @@
+.Contacto__redes {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.Contacto__redes a {
+  font-size: 3.5rem;
+  transition: transform 0.3s, box-shadow 0.3s;
+  border-radius: 50%;
+  padding: 0.8rem;
+  display: inline-flex;
+}
+
+.Contacto__redes a:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 20px currentColor;
+}
+
+/* Colores por red */
+.facebook {
+  color: #1877f2;
+}
+.tiktok {
+  color: #000;
+}
+.whatsapp {
+  color: #25d366;
+}
+.instagram {
+  color: #e1306c;
+}
+.youtube {
+  color: #ff0000;
+}
+.gmail {
+  color: #ea4335;
+}
+
+/* ===== Imagen debajo ===== */
+.Contacto__image {
+  display: block;
+  margin: 2.5rem auto 0;
+  width: 220px;
+  height: auto;
+  border-radius: 1.5rem;
+  transition: transform 0.4s ease, filter 0.4s ease;
+  cursor: pointer;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+.Contacto__image:hover {
+  transform: scale(1.08) translateY(-3px);
+  filter: brightness(1.15) drop-shadow(0 0 12px rgba(255, 255, 255, 0.6));
+}
+@media (max-width: 600px) {
+  .Contacto__image {
+    width: 280px;
+  }
+}

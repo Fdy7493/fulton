@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(135deg, #abbff3, #e4e8f8, #f4f4f5);
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+.footer {
+  width: 100%;
+  padding: 20px;
+  border:2px solid #ccc;
+  color: black;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0, 0, 0.1);
+}
+
+
