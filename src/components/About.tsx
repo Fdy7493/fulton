@@ -35,7 +35,7 @@ const VALUES = [
     image: qualityImg,
     alt: "Calidad",
     description:
-      "Si tienes tu consola averiada y no sabes cómo repararla, estás de enhorabuena, porque en TodoManzana reparamos cualquier consola PS5, PS4, PS3, PSP, PS VITA, Wii, Wii U, Nintendo Switch, 3DS, 2DS, 3DSXL 2DSXL, Xbox 360, Xbox Series S, Xbox Series X o cualquier otra videoconsola del mercado por mucho menos de lo que te imaginas."
+      "Si tienes tu consola averiada y no sabes cómo repararla, estás de enhorabuena, porque nosotros reparamos cualquier consola PS5, PS4, PS3, PSP, PS VITA, Wii, Wii U, Nintendo Switch, 3DS, 2DS, 3DSXL 2DSXL, Xbox 360, Xbox Series S, Xbox Series X o cualquier otra videoconsola del mercado por mucho menos de lo que te imaginas."
   },
   {
     image: passionImg,
