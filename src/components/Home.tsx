@@ -22,7 +22,15 @@ function Home() {
             <button>Contactar Ahora</button>
           </a>
 
-          <button>Ver Portafolio</button>
+          <a
+            href="https://sites.google.com/view/serviciotecnicofltn/home"
+            target="_blank"
+            rel="nooner noreferrer"
+          >
+            <button>Ver Portafolio</button>
+          </a>
+
+         
         </div>
       </section>
 
