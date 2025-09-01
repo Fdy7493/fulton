@@ -31,7 +31,7 @@ export default function Contacs() {
           <FaTiktok />
         </a>
         <a
-          href="https://wa.me/573001112233"
+          href="https://wa.me/573182327489"
           target="_blank"
           rel="noopener noreferrer"
           className="whatsapp"
