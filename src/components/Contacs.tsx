@@ -12,7 +12,7 @@ import {
 export default function Contacs() {
   return (
     <section className="Contacto">
-      <h2 className="Contacto__title">¡Conéctate con nosotros!</h2>
+      <h2 className="Contacto__title">¡ Contactanos !</h2>
       <div className="Contacto__redes">
         <a
           href="https://www.facebook.com/people/Flton-Moreno/61570888950850/?rdid=JYRJM7uPVUD9vOtT&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1B72jUUVXY%2F"
