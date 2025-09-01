@@ -23,7 +23,7 @@ export default function Contacs() {
           <FaFacebook />
         </a>
         <a
-          href="https://www.tiktok.com/@tuperfil"
+          href="https://www.tiktok.com/@fultonibarguenm"
           target="_blank"
           rel="noopener noreferrer"
           className="tiktok"
