@@ -15,7 +15,7 @@ export default function Contacs() {
       <h2 className="Contacto__title">¡Conéctate con nosotros!</h2>
       <div className="Contacto__redes">
         <a
-          href="https://www.facebook.com/tuperfil"
+          href="https://www.facebook.com/people/Flton-Moreno/61570888950850/?rdid=JYRJM7uPVUD9vOtT&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1B72jUUVXY%2F"
           target="_blank"
           rel="noopener noreferrer"
           className="facebook"
