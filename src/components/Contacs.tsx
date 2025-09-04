@@ -47,7 +47,7 @@ export default function Contacs() {
           <FaInstagram />
         </a>
         <a
-          href="https://www.youtube.com/results?search_query=reparacion+de+software+de+celulares+y+computadores"
+          href="https://youtube.com/@fulton-v8z5r"
           target="_blank"
           rel="noopener noreferrer"
           className="youtube"
