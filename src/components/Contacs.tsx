@@ -55,7 +55,7 @@ export default function Contacs() {
           <FaYoutube />
         </a>
         <a
-          href="fultonibarguenm@gmail.com"
+          href="https://fultonibarguenm@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
           className="gmail"
